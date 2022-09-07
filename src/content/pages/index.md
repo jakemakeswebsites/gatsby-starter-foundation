@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jake Collin
 tagline: Web Designer
-featuredImage: /assets/427364_724362491832_60272382_n.jpg
+featuredImage: /assets/293830_10151886416570468_1909102347_n.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
