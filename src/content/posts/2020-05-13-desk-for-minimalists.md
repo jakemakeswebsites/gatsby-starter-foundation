@@ -1,54 +1,13 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
+title: Progress tracking
+slug: Progress
 date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+description: "#100devs, Web Design, UI, UX, Front End, learning, Rapid Agile Development"
+featuredImage: /assets/pexels-michaela-295826.jpg
 ---
+(13/09/22)
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
-
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
-
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
-
-## It doesn't look so shiny to me.
-
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
-
-![]()
-
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
-
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+Ok, bit of a switch up.  My initial plan had me running through Free Code Camp tutorials, and I have to admit I lost a lot of motivation. As I've said I've done a fair bit of HTML, CSS and JavaScript, but the monotony of a from scratch HTML course weighed heavy on me, I lost motivation to continue, even though I could do it while doing other things at the same time (i.e watching rubbish series) and while I did learn a few things here and there I couldn't commit to that. I decided to take another approach, I need to be practical and build projects. I have a bunch of little projects I can resurrect but also new small ideas I would like to work through, I want to alternate between them, so I will post a new project every second day, and resurrect an old project every second day. This way there will be be new content (and practise every day). I still have a few key things I will need to learn through tutorials, and do want to improve my JavaScript through a couple of tutorials especially learn REACT and Three.JS\
+\
+Second change is the blogging platform, I've had a lot of recommendations in the past for blogger, and I play around with it before. I wanted something that was simple, preferably staying away from coding and an easy to use interface. Blogger is not that, the formatting through the standard text editor for posts is a mess adding additional HTML where it isnt needed (e.g 4 < h3 > tags around a sub heading, and completely random text sizing which for a short section took me almost an hour to fix), and while I could easily created it in Markdown the whole experience and customisation was limiting. Ive moved to using a headless CMS via Github/Netlify, its called Foundation and is built upon Gatsby. While initially it looks more technical it is infact must more user friendly, much more intuitive and a nicer and quicker experience for writing and up dating blogs. Over the next few days Ill be updating and moving accross everything I had on the Blogger site.
